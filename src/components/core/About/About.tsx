@@ -73,7 +73,7 @@ const About = () => {
           </div>
         </div>
         {/* chat button with image desgin */}
-        <div className="bg-neutral-100 my-4 py-2 rounded-lg lg:px-4 lg:absolute lg:top-28 lg:left-8 lg:w-[25rem] sm:bg-pink-300 md:bg-yellow-300 xl:px-4 xl:absolute xl:top-28 xl:left-8 xl:w-[25rem]  ">
+        <div className="bg-neutral-100 my-4 py-2 rounded-lg lg:px-4 lg:absolute lg:top-28 lg:left-8 lg:w-[25rem]  xl:px-4 xl:absolute xl:top-28 xl:left-8 xl:w-[25rem]  ">
           <div className=" flex xl:grid xl:grid-cols-2">
             <div className="mx-auto px-3 p-2 leading-6.5 text-sm lg:px-2 lg:text-lg xl:px-2 xl:text-xl">
               <h3>Still need help?</h3>
