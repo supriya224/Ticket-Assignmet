@@ -27,7 +27,7 @@ const MainInfo = () => {
               </p>
             </div>
 
-            <div className="gap-1">
+            <div className="gap-4">
               <h4 className="text-xl flex">Enter your details</h4>
               <h4 className="text-xs text-gray-500 my-3">
                 We'll be sending your tickets to the details below. Booking for
@@ -52,11 +52,11 @@ const MainInfo = () => {
                 </label>
               </div>
 
-              <div className="grid gap-2 xl:grid-cols-2 xl:gap-2 ">
-                <div className=" border border-gray-400 w-full xl:p-1 rounded-xl mr-9 ">
+              <div className="grid gap-6 mt-6 xl:grid-cols-2 xl:gap-2 ">
+                <div className=" border border-gray-400 w-full xl:p-1 rounded-xl mr-1 ">
                   <select
                     id="countries"
-                    className=" text-sm my-1 w-full px-3 py-1 text-gray-400 outline-none   "
+                    className=" text-sm my-3 w-full px-3 py-1 text-gray-400 outline-none   "
                   >
                     <option selected>Country *</option>
                     <option value="US">United States</option>
