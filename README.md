@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+#this is the snapshot of my ui its fully working on my local computer but here are some issue to deploy as soon as possible I will solve this problem 
+<img width="1440" alt="Screenshot 2024-02-11 at 4 33 16 AM" src="https://github.com/supriya224/Ticket-Assignmet/assets/52038704/32eb7cd3-e69f-4dad-accf-6fe6268bbfb6">
 ## Getting Started
 
 First, run the development server:
